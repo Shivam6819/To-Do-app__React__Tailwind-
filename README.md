@@ -1,3 +1,12 @@
+A responsive and user-friendly To-Do List application built using React and Tailwind CSS. This app allows users to create, manage, and delete tasks efficiently. Users can mark completed tasks with a strike-through effect for better task tracking and productivity. The project also includes real-time toast notifications to provide instant feedback for actions like adding, completing, or deleting tasks. Designed with a clean UI and smooth user experience in mind.
+
+
+link to check project : https://to-do-react-webapp.netlify.app/ 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
